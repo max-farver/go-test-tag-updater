@@ -4,7 +4,7 @@
   "description": "Update the `testTags` setting based on the build tag of the file being executed.",
   "publisher": "typhonista",
   "repository": "https://github.com/max-farver/go-test-tag-updater",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.87.0"
   },
