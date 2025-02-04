@@ -4,9 +4,9 @@
   "description": "Update the `testTags` setting based on the build tag of the file being executed.",
   "publisher": "typhonista",
   "repository": "https://github.com/max-farver/go-test-tag-updater",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.60.0"
+    "vscode": "^1.87.0"
   },
   "categories": [
     "Other"
@@ -27,7 +27,7 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.60.0",
+    "@types/vscode": "^1.87.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "20.x",
     "@typescript-eslint/eslint-plugin": "^8.22.0",
